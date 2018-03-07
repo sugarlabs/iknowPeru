@@ -4,5 +4,6 @@ activity_version = 9
 bundle_id = org.ceibaljam.conozcoperu
 icon = activity
 exec = sugar-activity activity.Activity
-license = GPLv2+
+license = GPLv3+
 summary = Game about the geography of Peru
+repository = https://github.com/sugarlabs/iknowPeru.git
